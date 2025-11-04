@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB04\Product\Product\bin\Debug\net9.0\Product.exe
+D:\REPOS\PT_LABS\LAB04\Product\Product\bin\Debug\net9.0\Product.deps.json
+D:\REPOS\PT_LABS\LAB04\Product\Product\bin\Debug\net9.0\Product.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB04\Product\Product\bin\Debug\net9.0\Product.dll
+D:\REPOS\PT_LABS\LAB04\Product\Product\bin\Debug\net9.0\Product.pdb
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.sourcelink.json
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.dll
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\refint\Product.dll
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.pdb
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\Product.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB04\Product\Product\obj\Debug\net9.0\ref\Product.dll
