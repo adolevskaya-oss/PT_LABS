@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\bin\Debug\net9.0\OOP_MATRIX.exe
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\bin\Debug\net9.0\OOP_MATRIX.deps.json
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\bin\Debug\net9.0\OOP_MATRIX.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\bin\Debug\net9.0\OOP_MATRIX.dll
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\bin\Debug\net9.0\OOP_MATRIX.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.AssemblyInfo.cs
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.csproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.sourcelink.json
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.dll
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\refint\OOP_MATRIX.dll
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.pdb
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\OOP_MATRIX.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB05\OOP_MATRIX\obj\Debug\net9.0\ref\OOP_MATRIX.dll
