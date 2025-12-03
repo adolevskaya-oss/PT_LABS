@@ -17,13 +17,8 @@ class Program
 
             // Товар 2
             Product product2 = new Product("Книга", 1289, 12);
-            
-            product2.Quantity = -12;
+            Console.WriteLine(product2.Quantity);
             product2.PrintInfo();
-            
-
-
-
             Console.WriteLine($"Общая стоимость: {product2.GetTotalCost()}");
             
 
@@ -52,14 +47,15 @@ class Program
             Console.WriteLine($"Ошибка валидации: {ex.Message}");
         }
 
-        try
-        {
-            Product invalidProduct3 = new Product("Товар", 100, -5); // Отрицательное количество
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine($"Ошибка валидации: {ex.Message}");
-        }
+            try
+            {
+                Product invalidProduct3 = new Product("Товар", 100, -5); // Отрицательное количество
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"Ошибка валидации: {ex.Message}");
+            }
+        
     }
 }
 }
